@@ -1,7 +1,6 @@
 ---
 title: About
 layout: page
-permalink: /about/index.html
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
