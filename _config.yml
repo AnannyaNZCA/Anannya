@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/anannya.jpg
 
 # If you want to include your resume, set to true
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://anannyanzca.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -55,7 +55,7 @@ authors:
   anannya:
     name: Anannya
     bio: Just another somebody....
-    external-image: false
+    external-image: true
     picture: assets/images/anannya.jpg
     twitter: johndoe
   
