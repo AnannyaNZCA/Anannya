@@ -1,6 +1,8 @@
 ---
 title: About
 layout: page
+lang: en
+ref: about
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
@@ -43,4 +45,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
+
+<h2>Projects</h2>
+
+<ul>
+	<li><a href="https://github.com/ravpacheco/tilt">Tilt</a> - <b>T</b>oday <b>I</b> <b>L</b>earned <b>T</b>his. A collection of small and curious things (about programming) that I learned.</li>
+	<li><a href="https://github.com/ravpacheco/resumebot">resumebot</a>. Resume bot is my digital resume as a chatbot created using http://blip.ai plataform.</li>
 </ul>
