@@ -16,10 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://anannyanzca.github.io/indigo
+url: 'https://anannyanzca.github.io'
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+permalink: '/:title/'
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
