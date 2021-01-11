@@ -41,11 +41,22 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Projects</h2>
 
-<ul class ="project-list">
+<h3>Machine Learning</h3>
+<ul class ="machine-learning-list">
 	<li><a href="https://github.com/AnannyaNZCA/AnannyaNZCA1.github.io">Jupyter Demo on P2P Lending and Crowd-Sourcing</a></li>
-	<li><a href="https://github.com/AnannyaNZCA/DApp_Ethereum_Car_Mktplace/">Etherum DApp</a></li>
 	<li><a href="https://github.com/AnannyaNZCA/Web_Scraping/">Web Scraping and Visualization</a></li>
 </ul>
+
+<h3>Blockchain</h3>
+<ul class ="blockchain-list">
+		<li><a href="https://github.com/AnannyaNZCA/DApp_Ethereum_Car_Mktplace/">Etherum DApp</a></li>
+	</ul>
+	
+<h3>Web-Crawling</h3>
+<ul class ="web-crawling-list">
+		<li><a href="https://github.com/AnannyaNZCA/Web_Scraping/">Web Scraping and Visualization</a></li>
+	</ul>
+	
 
 <h2>Projects</h2>
 
