@@ -16,10 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: 'https://anannyanzca.github.io'
+url: http://anannyanzca.github.io
 # your url: https://USERNAME.github.io
 
-permalink: '/:title/'
+permalink: /:year/:month/:day/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
