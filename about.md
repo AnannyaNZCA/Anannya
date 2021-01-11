@@ -41,10 +41,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class ="project-list">
+	<li><a href="https://github.com/AnannyaNZCA/AnannyaNZCA1.github.io">Jupyter Demo on P2P Lending and Crowd-Sourcing</a></li>
+	<li><a href="https://github.com/AnannyaNZCA/DApp_Ethereum_Car_Mktplace/">Etherum DApp</a></li>
+	<li><a href="https://github.com/AnannyaNZCA/Web_Scraping/">Web Scraping and Visualization</a></li>
 </ul>
 
 <h2>Projects</h2>
