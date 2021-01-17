@@ -12,11 +12,10 @@ category: blog
 
 Entities are essentially symbols in HTML jargon. Here is a list of entities and their codes courtesy [Tizag](http://www.tizag.com) .
 
-<table >
-<tbody >
-<tr >
-Symbol
-Definition
-Numeric Value
-Correlating Name
-</tr>
+Open bash and enter the following to generate public-private key pair: 
+
+    $ ssh-keygen -m PEM -t rsa -b 4096
+
+type the following:
+
+		sudo docker start testopenethereum
