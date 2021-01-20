@@ -25,8 +25,8 @@ description: Markdown summary with different options
 - [Especial Breaker](#especial-breaker)
 - [Spoiler](#spoiler)
 
-#### External Elements
-- [Gist](#gist)
+#### Infrastructure SetUp
+- [Private Decentralized App SetUp](#gist)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
 - [Videos](#videos)
@@ -42,5 +42,9 @@ You can try the evidence!
 {% highlight html %}
 <span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
 {% endhighlight %}
+
+## Private Decentralized App SetUp
+
+
 
 ---
