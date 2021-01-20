@@ -45,6 +45,15 @@ You can try the evidence!
 
 ## Private Decentralized App SetUp
 
+Here is the reference site and their codes courtesy [Tizag](http://www.tizag.com) .
+
+Open bash and enter the following to generate public-private key pair: 
+
+    $ ssh-keygen -m PEM -t rsa -b 4096
+
+type the following:
+
+		sudo docker start testopenethereum
 
 
 ---
