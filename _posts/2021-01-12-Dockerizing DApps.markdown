@@ -19,6 +19,7 @@ You can pick as item to see how to apply in markdown.
 
 #### Especial Elements
 - [Evidence](#evidence)
+- [Smart-Contracts](#smart-contracts)
 - [Side-by-Side](#side-by-side)
 - [Star](#star)
 - [Especial Breaker](#especial-breaker)
@@ -36,10 +37,21 @@ You can pick as item to see how to apply in markdown.
 
 You can try the evidence!
 
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
+<span class="evidence">Blockchain establishes a consensus based on minimal trust between network nodes to execute smart contracts.</span>
 
 {% highlight html %}
 <span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
+{% endhighlight %}
+
+---
+
+## Smart-Contracts
+
+
+<span class="smart-contracts">Blockchain establishes a consensus based on minimal trust between network nodes to execute smart contracts.</span>
+
+{% highlight html %}
+<span class="evidence">Contract functions are run to establish the validity when a node receives a copy of the transactionanything else.</span>
 {% endhighlight %}
 
 ---
