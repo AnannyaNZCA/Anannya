@@ -26,7 +26,7 @@ description: Markdown summary with different options
 - [Spoiler](#spoiler)
 
 #### Infrastructure SetUp
-- [Private Decentralized App SetUp](#gist)
+- [Private Decentralized App SetUp](#setup)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
 - [Videos](#videos)
@@ -39,15 +39,16 @@ You can try the evidence!
 
 <span class="evidence">Blockchain establishes a consensus based on minimal trust between network nodes to execute smart contracts.</span>
 
-{% highlight html %}
+
 <span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-{% endhighlight %}
+
+---
 
 ## Private Decentralized App SetUp
 
-Here is the reference site and their codes courtesy [Tizag](http://www.tizag.com) .
+<span class="setup">Here is the reference site and their codes courtesy [Tizag](http://www.tizag.com) .</span>
 
-Open bash and enter the following to generate public-private key pair: 
+<span class="setup">Open bash and enter the following to generate public-private key pair:</span>
 
     $ ssh-keygen -m PEM -t rsa -b 4096
 
