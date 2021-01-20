@@ -13,14 +13,14 @@ author: anannya
 description: Markdown summary with different options
 ---
 
-## Summary:
+## Navigate to the respective posts for the details :
 
-Navigate to the respective posts for the details.
 
-#### Especial Elements
+
+#### Posts
 - [Evidence](#evidence)
 - [Smart-Contracts](#smart-contracts)
-- [Side-by-Side](#side-by-side)
+- [Enterprise Blockchain](#enterprise)
 - [Star](#star)
 - [Especial Breaker](#especial-breaker)
 - [Spoiler](#spoiler)
