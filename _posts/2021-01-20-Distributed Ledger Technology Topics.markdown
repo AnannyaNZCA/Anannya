@@ -17,7 +17,7 @@ description: Markdown summary with different options
 
 
 
-#### Posts
+#### Blockchain and Smart Contracts
 - [Smart-Contracts](#smart-contracts)
 - [Enterprise Blockchain](#enterprise)
 - [Star](#star)
@@ -38,6 +38,7 @@ This is a rudimentary explanation of smart contracts
 
 <span class="smart-contracts">Blockchain establishes a consensus based on minimal trust between network nodes to execute smart contracts.</span>
 
+---
 
 ## Private Decentralized App SetUp
 
