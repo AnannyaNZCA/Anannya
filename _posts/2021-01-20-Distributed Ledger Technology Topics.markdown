@@ -18,7 +18,6 @@ description: Markdown summary with different options
 
 
 #### Posts
-- [Evidence](#evidence)
 - [Smart-Contracts](#smart-contracts)
 - [Enterprise Blockchain](#enterprise)
 - [Star](#star)
@@ -33,15 +32,11 @@ description: Markdown summary with different options
 
 ---
 
-## Evidence
+## Smart-Contracts
 
-You can try the evidence!
+This is a rudimentary explanation of smart contracts
 
-<span class="evidence">Blockchain establishes a consensus based on minimal trust between network nodes to execute smart contracts.</span>
-
-
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-
+<span class="smart-contracts">Blockchain establishes a consensus based on minimal trust between network nodes to execute smart contracts.</span>
 
 
 ## Private Decentralized App SetUp
