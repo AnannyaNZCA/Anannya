@@ -20,15 +20,9 @@ description: Markdown summary with different options
 #### Blockchain and Smart Contracts
 - [Smart-Contracts](#smart-contracts)
 - [Enterprise Blockchain](#enterprise)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
 
 #### Infrastructure SetUp
 - [Private Decentralized App SetUp](#setup)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
 
 ---
 
