@@ -27,6 +27,7 @@ description: Markdown summary with different options
 - [Smart Contract Patterns][4]
 
 #### Blockchain Design Thinking
+- [High Level Architectural Framework][6]
 - [Reactjs][1]
 - [Nodejs][1]
 
@@ -38,3 +39,5 @@ description: Markdown summary with different options
 [3]: https://daringfireball.net/projects/markdown/basics
 [4]: https://daringfireball.net/projects/markdown/syntax
 [5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[6]: https://anannyanzca.github.io/Architecture/
+
