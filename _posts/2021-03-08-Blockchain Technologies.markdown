@@ -2,7 +2,7 @@
 title: "Blockchain and Distributed Ledger Technologies"
 layout: post
 date: 2021-03-08 22:44
-image: /assets/images/markdown.jpg
+image: /assets/images/blockchain_header.jpg
 headerImage: true
 tag:
 - markdown
@@ -13,14 +13,14 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## Basic formatting
+## Setting Up Dockers on Azure
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+This section **demonstrates** setup of [Dockers][1]  *procedure*.
 
 And that's how to do it.
 
 {% highlight html %}
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+[Dockers][1] is code.
 {% endhighlight %}
 
 ---
