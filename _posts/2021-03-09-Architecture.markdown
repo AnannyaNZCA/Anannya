@@ -25,9 +25,8 @@ Like the [Medium](https://medium.com/) component.
         <figcaption class="caption">High Level Architecture</figcaption>
     </div>
 
-    <div class="toright">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
+   
 </div>
 ---
 
