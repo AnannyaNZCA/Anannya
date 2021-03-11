@@ -1,6 +1,6 @@
 # main text of home
 name: Anannya
-bio: Developer | Researcher | Writer
+bio: 'Graduate Student | Software Engineer | Music Lover'
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://anannyanzca.github.io
+url: http://anannyanzca.github.io
 
 
 permalink: /:title/
