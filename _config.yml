@@ -55,7 +55,7 @@ authors:
   anannya:
     name: Anannya
     bio: Just another somebody....
-    external-image: true
+    external-image: false
     picture: assets/images/anannya.jpg
     twitter: johndoe
   
@@ -78,7 +78,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
-contact: true
+
 
 # do you want to show the "read time" of the posts?
 read-time: true
